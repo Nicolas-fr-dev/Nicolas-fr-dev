@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:12294d,100:1f6feb&section=header&text=[Nicolas%20Freitas]&fontSize=44&fontColor=e6edf3&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20de%20jogos%202D&descSize=17&descColor=9fb3c8&descAlignY=58" alt="Cabeçalho" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:12294d,100:1f6feb&section=header&text=Nicolas%20Freitas&fontSize=44&fontColor=e6edf3&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20de%20jogos%202D&descSize=17&descColor=9fb3c8&descAlignY=58" alt="Cabeçalho" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Godot+4+e+GDScript;Combate%2C+inimigos+e+chefes;Sistemas+de+jogo+bem+organizados;Aberto+a+colabora%C3%A7%C3%B5es" alt="Texto animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Godot+4+e+GDScript;Python+e+MySQL;Combate%2C+inimigos+e+chefes;Aberto+a+colabora%C3%A7%C3%B5es" alt="Texto animado" />
   </a>
 </p>
 
@@ -23,9 +23,9 @@
 
 ## Sobre mim
 
-Desenvolvo jogos 2D com foco em sistemas de jogo: combate, comportamento de inimigos, chefes e feedback visual e sonoro. Escrevo meu código em GDScript e documento tudo em português.
+Sou o Nicolas Freitas e desenvolvo jogos 2D com foco em sistemas de jogo: combate, comportamento de inimigos, chefes e feedback visual e sonoro. Escrevo meu código em GDScript e documento tudo em português.
 
-Meu projeto principal é um jogo de ação e plataforma protagonizado por um pombo, com combate corpo a corpo inspirado em metroidvanias, inimigos com comportamentos próprios e chefes com mecânicas de cenário. Também desenvolvo interfaces web com HTML, CSS e Bootstrap.
+Meu projeto principal é um jogo de ação e plataforma protagonizado por um pombo, com combate corpo a corpo inspirado em metroidvanias, inimigos com comportamentos próprios e chefes com mecânicas de cenário. Também trabalho com Python, bancos de dados MySQL e interfaces web com HTML, CSS e Bootstrap.
 
 ## Projeto em destaque
 
@@ -33,7 +33,7 @@ Meu projeto principal é um jogo de ação e plataforma protagonizado por um pom
   <tr>
     <td width="55%" valign="top">
 
-### [Odisseia do Pombo]
+### [Nome do jogo]
 
 Jogo 2D de ação e plataforma em Godot 4.
 
@@ -58,7 +58,7 @@ Jogo 2D de ação e plataforma em Godot 4.
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,html,css,bootstrap,js,git,github,vscode&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=godot,python,mysql,html,css,bootstrap,js,git,github,vscode&theme=dark" alt="Tecnologias" />
 </p>
 
 <div align="center">
@@ -66,8 +66,9 @@ Jogo 2D de ação e plataforma em Godot 4.
 | Área | Ferramentas |
 | :--- | :--- |
 | Engine | Godot 4 |
-| Linguagens | GDScript, HTML, CSS, JavaScript |
-| Front-end | Bootstrap 5 |
+| Linguagens | GDScript, Python, HTML, CSS, JavaScript |
+| Banco de dados | MySQL |
+| Front-end | HTML, CSS e Bootstrap 5 |
 | Arte | [Aseprite / Krita / outro], pixel art 32x32 |
 | Áudio | [Audacity / outro] |
 | Versionamento | Git e GitHub |
