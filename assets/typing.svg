@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="50" viewBox="0 0 700 50">
+  <defs>
+    <clipPath id="c1">
+      <rect x="0" y="0" height="50" width="0">
+        <animate attributeName="width" dur="16s" repeatCount="indefinite"
+          keyTimes="0;0.09;0.21;0.22;1" values="0;240;240;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c2">
+      <rect x="0" y="0" height="50" width="0">
+        <animate attributeName="width" dur="16s" repeatCount="indefinite"
+          keyTimes="0;0.25;0.34;0.46;0.47;1" values="0;0;330;330;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c3">
+      <rect x="0" y="0" height="50" width="0">
+        <animate attributeName="width" dur="16s" repeatCount="indefinite"
+          keyTimes="0;0.5;0.59;0.71;0.72;1" values="0;0;400;400;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c4">
+      <rect x="0" y="0" height="50" width="0">
+        <animate attributeName="width" dur="16s" repeatCount="indefinite"
+          keyTimes="0;0.75;0.84;0.96;0.97;1" values="0;0;270;270;0;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="20" fill="#58a6ff">
+    <text x="30" y="32" clip-path="url(#c1)">Godot 4 e GDScript</text>
+    <text x="30" y="32" clip-path="url(#c2)">Combate, inimigos e chefes</text>
+    <text x="30" y="32" clip-path="url(#c3)">Sistemas de jogo bem organizados</text>
+    <text x="30" y="32" clip-path="url(#c4)">Aberto a colaborações</text>
+  </g>
+</svg>
