@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:12294d,100:1f6feb&section=header&text=[Seu%20nome]&fontSize=44&fontColor=e6edf3&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20de%20jogos%202D&descSize=17&descColor=9fb3c8&descAlignY=58" alt="Cabeçalho" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:12294d,100:1f6feb&section=header&text=[Nicolas%20Freitas]&fontSize=44&fontColor=e6edf3&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20de%20jogos%202D&descSize=17&descColor=9fb3c8&descAlignY=58" alt="Cabeçalho" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -33,7 +33,7 @@ Meu projeto principal é um jogo de ação e plataforma protagonizado por um pom
   <tr>
     <td width="55%" valign="top">
 
-### [Nome do jogo]
+### [Odisseia do Pombo]
 
 Jogo 2D de ação e plataforma em Godot 4.
 
